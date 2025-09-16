@@ -1,6 +1,6 @@
-<h1>👩🏻‍💻 Larissa Kich</h1>
+<h1>👩🏻‍💻 Oevem Gonçalves</h1>
 
-<h2><code>Desenvolvedora FullStack</code></h2>
+<h2><code>Desenvolvedor Front-end</code></h2>
 
 <p>
   Me chamo <b>Oevem Rodrigues Gonçalves</b>, tenho 20 anos e sou natural de Autazes/AM.
