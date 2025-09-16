@@ -28,7 +28,7 @@
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         />
 </a>
-<a <a href="oevemrodrigues2@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=exemplo@email.com&su=Assunto&body=Olá,%20quero%20mais%20informações." target="_blank">
     <img 
       alt="E-mail" 
       title="Meu E-mail" 
