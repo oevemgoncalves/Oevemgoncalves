@@ -1,4 +1,4 @@
-<h1>👩🏻‍💻 Oevem Gonçalves</h1>
+<h1>👨‍💻 Oevem Gonçalves</h1>
 
 <h2><code>Desenvolvedor Front-end</code></h2>
 
